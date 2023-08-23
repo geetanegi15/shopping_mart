@@ -1,0 +1,3 @@
+class MartUser < Account
+
+end

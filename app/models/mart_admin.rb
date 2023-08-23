@@ -1,0 +1,3 @@
+class MartAdmin < Account
+
+end
